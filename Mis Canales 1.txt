@@ -1,0 +1,220 @@
+#EXTINF:-1,Globo RJ FHD *
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/61623.m3u8
+#EXTINF:-1,Globo RJ HD *
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/35970.m3u8
+#EXTINF:-1,Globo RJ SD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/35761.m3u8
+#EXTINF:-1,Globo SP SD *
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/35906.m3u8
+#EXTINF:-1,Globo Inter TV Serra Mar SD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/35691.m3u8
+#EXTINF:-1,GLOBO INTERNACIONAL HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/56699.m3u8
+#EXTINF:-1,Discovery Chanel FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6963.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6620.m3u8
+#EXTINF:-1,Discovery H&H FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6954.m3u8
+#EXTINF:-1,Discovery H&H HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6616.m3u8
+#EXTINF:-1,Discovery Kids FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6956.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6614.m3u8
+#EXTINF:-1,Discovery Science FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/16860.m3u8
+#EXTINF:-1,Discovery Science HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6612.m3u8
+#EXTINF:-1,Discovery Theater FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/28651.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6610.m3u8
+#EXTINF:-1,Discovery Turbo FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6961.m3u8
+#EXTINF:-1,Discovery Turbo HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6608.m3u8
+#EXTINF:-1,Discovery World FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/17076.m3u8
+#EXTINF:-1,Discovery World HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6606.m3u8
+#EXTINF:-1,Investigação Discovery FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/28643.m3u8
+#EXTINF:-1,Investigação Discovery HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6547.m3u8
+#EXTINF:-1,TNT Series FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/28634.m3u8
+#EXTINF:-1,TNT Series HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6455.m3u8
+#EXTINF:-1,TNT HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/7050.m3u8
+#EXTINF:-1,TNT SD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6456.m3u8
+#EXTINF:-1,Telecine Action FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6922.m3u8
+#EXTINF:-1,Telecine Action HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6471.m3u8
+#EXTINF:-1,Telecine Cult FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6926.m3u8
+#EXTINF:-1,Telecine Cult HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6469.m3u8
+#EXTINF:-1,Telecine Fun FHD *
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/16812.m3u8
+#EXTINF:-1,Telecine Fun HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6467.m3u8
+#EXTINF:-1,Telecine Pipoca FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6925.m3u8
+#EXTINF:-1,Telecine Pipoca HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6465.m3u8
+#EXTINF:-1,Telecine Premium FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6927.m3u8
+#EXTINF:-1,Telecine Premium HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6463.m3u8
+#EXTINF:-1,Telecine Touch FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6924.m3u8
+#EXTINF:-1,Telecine Touch HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6461.m3u8
+#EXTINF:-1,Space FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6934.m3u8
+#EXTINF:-1,Space HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6488.m3u8
+#EXTINF:-1,HBO FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6948.m3u8
+#EXTINF:-1,HBO HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6555.m3u8
+#EXTINF:-1,HBO 2 FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6953.m3u8
+#EXTINF:-1,HBO 2 HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6559.m3u8
+#EXTINF:-1,HBO Family FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/28646.m3u8
+#EXTINF:-1,HBO Family HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6557.m3u8
+#EXTINF:-1,HBO Mundi FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/28641.m3u8
+#EXTINF:-1,HBO Mundi HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6543.m3u8
+#EXTINF:-1,HBO Plus FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/28645.m3u8
+#EXTINF:-1,HBO Plus HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/10763.m3u8
+#EXTINF:-1,HBO Pop FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/17081.m3u8
+#EXTINF:-1,HBO Pop HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6539.m3u8
+#EXTINF:-1,HBO Signature FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/28644.m3u8
+#EXTINF:-1,HBO Signature HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6551.m3u8
+#EXTINF:-1,HBO Xtreme FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6941.m3u8
+#EXTINF:-1,HBO Xtreme HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6540.m3u8
+#EXTINF:-1,Megapix FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6918.m3u8
+#EXTINF:-1,Megapix HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6537.m3u8
+#EXTINF:-1,ESPN FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6932.m3u8
+#EXTINF:-1,ESPN SD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6590.m3u8
+#EXTINF:-1,ESPN 2 FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/26155.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/10824.m3u8
+#EXTINF:-1,ESPN Brasil HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6589.m3u8
+#EXTINF:-1,ESPN Brasil SD *
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/10823.m3u8
+#EXTINF:-1,ESPN Extra FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/17077.m3u8
+#EXTINF:-1,ESPN Extra HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/26159.m3u8
+#EXTINF:-1,ESPN Extra SD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6592.m3u8
+#EXTINF:-1,ARG- ESPN 1 FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/119868.m3u8
+#EXTINF:-1,ARG- ESPN 2 FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/119869.m3u8
+#EXTINF:-1,ARG- ESPN 3 FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/119870.m3u8
+#EXTINF:-1,SPORTS| FOX SPORTS 5 FHD (new zealand)
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/116349.m3u8
+#EXTINF:-1,SPORTS| FOX SPORTS 6 HD (new zealand)
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/116350.m3u8
+#EXTINF:-1,USL- FOX SPORTA SAN DIEGO HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/115417.m3u8
+#EXTINF:-1,USL- FOX SPORTS TENNESSE  HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/115435.m3u8
+#EXTINF:-1,USL- FOX SPORTS WEST HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/115436.m3u8
+#EXTINF:-1,USL- FOX SPORTS WISCONSIN HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/115437.m3u8
+#EXTINF:-1,Fox Sports 2 FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/10363.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6575.m3u8
+#EXTINF:-1,Fox Sports FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/10364.m3u8
+#EXTINF:-1,Fox Sports SD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6576.m3u8
+#EXTINF:-1,Band Sports FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6638.m3u8
+#EXTINF:-1,Band Sports HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/10865.m3u8
+#EXTINF:-1,globo esporte.com
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/58915.m3u8
+#EXTINF:-1,SporTV 2 FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6942.m3u8
+#EXTINF:-1,SporTV 2 HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6480.m3u8
+#EXTINF:-1,SporTV 3 FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/10371.m3u8
+#EXTINF:-1,SporTV 3 HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6478.m3u8
+#EXTINF:-1,SporTV FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6928.m3u8
+#EXTINF:-1,SporTV HD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/6482.m3u8
+#EXTINF:-1,DAZN 3
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/37002.m3u8
+#EXTINF:-1,DAZN 4
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/36920.m3u8
+#EXTINF:-1,DAZN 5
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/64246.m3u8
+#EXTINF:-1,DAZN 6
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/64247.m3u8
+#EXTINF:-1,DAZN 7
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/64248.m3u8
+#EXTINF:-1,DAZN 8
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/64249.m3u8
+#EXTINF:-1,DAZN 9
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/64250.m3u8
+#EXTINF:-1,Fox Sports 2 FHD
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/10363.m3u8
+#EXTINF:-1,CONMEBOL TV 10
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/121815.m3u8
+#EXTINF:-1,CONMEBOL TV 11
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/121816.m3u8
+#EXTINF:-1,CONMEBOL TV 12
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/121817.m3u8
+#EXTINF:-1,CONMEBOL TV 13
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/121818.m3u8
+#EXTINF:-1,CONMEBOL TV 14
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/121819.m3u8
+#EXTINF:-1,CONMEBOL TV 2
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/120985.m3u8
+#EXTINF:-1,CONMEBOL TV 3
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/120986.m3u8
+#EXTINF:-1,CONMEBOL TV 4k
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/121824.m3u8
+#EXTINF:-1,CONMEBOL TV 5
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/120988.m3u8
+#EXTINF:-1,CONMEBOL TV 6
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/120989.m3u8
+#EXTINF:-1,CONMEBOL TV 7
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/121812.m3u8
+#EXTINF:-1,CONMEBOL TV 8
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/121813.m3u8
+#EXTINF:-1,CONMEBOL TV 9
+http://cms-central.co:80/live/leonardouruguay10/riquelme119850/121814.m3u8
